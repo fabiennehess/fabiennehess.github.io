@@ -1,0 +1,216 @@
+---
+layout : default
+---
+
+<div>
+
+
+<div class = "headings">
+<span class = "underline">ABOUT</span> <a href="{{ site.baseurl }} work/"> WORK</a> <a href="{{ site.baseurl }} inprogress/">IN-PROGRESS</a>
+</div>
+
+
+<div id = "main">
+
+<!-- <div class = "h2">
+NEWS
+</div>
+
+<div class = "news">
+Lorem ipsum dolor set amet. Blar diene dlsdfjsld rrrrr ssss dfsdfsdf hfhfh sdfeed ddf and do sisches.
+</div>
+
+{::options parse_block_html="false" /}
+
+<div class = "giffy">
+<img src="images/LAYERS_for-GIF_Monet_2_lessframes_TINY.gif">
+</div> -->
+
+<div class = "h2">
+INFO (AT) FABIENNEHESS.COM
+</div>
+<div class= "h2after">
+INSTAGRAM: FABIENNE_HESS
+</div>
+<p>
+  I am interested in things which are difficult to see, forgotten, marginalized. This can be the scale and diversity of the collections of The University of Edinburgh; deleted digital images or the individual threads of a tightly woven silk cloth. With my work I try to see them for myself and render them visible to the world. This usually involves grouping images according to visual similarity,  uid and  imsy materials, undoing an existing order. And it is often a laborious manual process where I spend a long time repeating a small gesture. Like scrolling through thousands of alien images, drawing words on a fragile plastic or undoing silk into threads.
+</p>
+
+
+<div class = "giffy">
+<img src="gifs/LAYERS_for-GIF_Kelly_Tiny.gif">
+</div>
+
+<div class = "h2">
+EDUCATION
+</div>
+
+<div class = "section">
+<div class = "year"><span class ="top">2012</span></div><div class = "data"> Master of Arts, <span class = "underline">Royal College of Art</span>, London</div>
+<div>
+<div class = "year">
+<span class ="top">2004</span>
+</div><div class = "data">
+Diploma in graphic design,<span class = "underline">Vocational College
+for Art & Design</span>, Zürich</div>
+</div>
+
+
+</div>
+
+
+<div class = "giffy">
+<img src="gifs/Robert-Ryman_4_TINY.gif">
+</div>
+
+
+<div class = "h2">
+SOLO EXHIBITIONS
+</div>
+
+
+<div class = section>
+{% for exhibit in site.data.solo %}
+
+<div>
+  <div class = "year">
+  <span class ="top">{{ exhibit.year }}</div>
+  </span>
+   <div class = "data">{{ exhibit.title }}</div>
+</div>
+
+
+
+{% endfor %}
+</div>
+
+<div class = "giffy">
+<img src="gifs/IBK_tiny_2.gif">
+</div>
+
+
+
+
+<div class = "h2">
+SELECTED GROUP EXHIBITIONS
+</div>
+
+
+<div class = section>
+{% for exhibit in site.data.group %}
+
+<div>
+  <div class = "year">
+  <span class ="top">{{ exhibit.year }}</div>
+  </span>
+   <div class = "data">{{ exhibit.title }}</div>
+</div>
+
+
+
+{% endfor %}
+</div>
+
+<div class = "giffy">
+<img src="gifs/LAYERS_for-GIF_Olympia_1_lessframes_TINY.gif">
+</div>
+
+<div class = "h2">
+SCREENINGS
+</div>
+
+
+<div class = section>
+{% for exhibit in site.data.screenings %}
+
+<div>
+  <div class = "year">
+  <span class ="top">{{ exhibit.year }}</div>
+  </span>
+   <div class = "data">{{ exhibit.title }}</div>
+</div>
+
+
+
+{% endfor %}
+</div>
+
+<div class = "giffy">
+<img src="gifs/Who-is-afraid_5_lessframes_TINY.gif">
+</div>
+
+
+<div class = "h2">
+PUBLICATIONS / REVIEWS
+</div>
+
+
+<div class = section>
+{% for exhibit in site.data.pubs %}
+
+<div>
+  <div class = "year">
+  <span class ="top">{{ exhibit.year }}</div>
+  </span>
+   <div class = "data">{{ exhibit.title }}</div>
+</div>
+
+
+
+{% endfor %}
+</div>
+
+<div class = "giffy">
+<img src="gifs/LAYERS_for-GIF_Monet_2_lessframes_TINY.gif">
+</div>
+
+
+<div class = "h2">
+RESIDENCIES
+</div>
+
+
+<div class = section>
+{% for exhibit in site.data.residencies %}
+
+<div>
+  <div class = "year">
+  <span class ="top">{{ exhibit.year }}</div>
+  </span>
+   <div class = "data">{{ exhibit.title }}</div>
+</div>
+
+
+
+{% endfor %}
+</div>
+
+<div class = "giffy">
+<img src="gifs/LAYERS_for-GIF_Malevich_1_TINY.gif">
+</div>
+
+<div class = "h2">
+COMMISSIONS
+</div>
+
+
+<div class = section>
+{% for exhibit in site.data.commissions %}
+
+<div>
+  <div class = "year">
+  <span class ="top">{{ exhibit.year }}</div>
+  </span>
+   <div class = "data">{{ exhibit.title }}</div>
+</div>
+
+
+
+{% endfor %}
+</div>
+
+
+
+</div>
+
+</div>
