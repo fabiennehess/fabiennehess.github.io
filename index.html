@@ -71,16 +71,12 @@ SOLO EXHIBITIONS
 
 <div class = section>
 {% for exhibit in site.data.solo %}
-
-<div>
+<div class = "entry">
   <div class = "year">
   <span class ="top">{{ exhibit.year }}</div>
   </span>
    <div class = "data">{{ exhibit.title }}</div>
 </div>
-
-
-
 {% endfor %}
 </div>
 
@@ -99,7 +95,7 @@ SELECTED GROUP EXHIBITIONS
 <div class = section>
 {% for exhibit in site.data.group %}
 
-<div>
+<div class = "entry">
   <div class = "year">
   <span class ="top">{{ exhibit.year }}</div>
   </span>
@@ -123,7 +119,7 @@ SCREENINGS
 <div class = section>
 {% for exhibit in site.data.screenings %}
 
-<div>
+<div  class = "entry">
   <div class = "year">
   <span class ="top">{{ exhibit.year }}</div>
   </span>
@@ -148,7 +144,7 @@ PUBLICATIONS / REVIEWS
 <div class = section>
 {% for exhibit in site.data.pubs %}
 
-<div>
+<div class = "entry">
   <div class = "year">
   <span class ="top">{{ exhibit.year }}</div>
   </span>
@@ -173,7 +169,7 @@ RESIDENCIES
 <div class = section>
 {% for exhibit in site.data.residencies %}
 
-<div>
+<div class = "entry">
   <div class = "year">
   <span class ="top">{{ exhibit.year }}</div>
   </span>
@@ -197,7 +193,7 @@ COMMISSIONS
 <div class = section>
 {% for exhibit in site.data.commissions %}
 
-<div>
+<div class = "entry">
   <div class = "year">
   <span class ="top">{{ exhibit.year }}</div>
   </span>
