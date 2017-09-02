@@ -44,7 +44,7 @@ div { overflow: hidden; }
 
 .title { font-size: 80%; letter-spacing: 1.5px; padding-bottom: 17px; padding-top: 0; }
 
-.underline { border-bottom: 1px solid #000; padding-bottom: 1px; }
+.underline { text-decoration: underline; }
 
 .active { background-color: #6E6E6E; color: black; }
 

@@ -1,10 +1,10 @@
 
 - description: Argyll House Curves
   type: image
-  filename: Argyle-House_curves_FabienneHess.jpg
+  filename: Argyle_FabienneHess_1.jpg
 
 - type: image
-  filename: T&C_FabienneHess.jpg
+  filename: Terms-and-Conditions_Fabienne-Hess.jpg
 
 - type: image
   filename: Trust-Me_website_1.jpg
@@ -13,25 +13,100 @@
   filename: MadameX_FabienneHEss.jpg
 
 - type: image
-  filename: HitsandMisses_FabienneHess_1.jpg
+  filename: FabienneHess_Hits-and-Misses_1.jpg
 
 - type: image
-  filename: INeed_website_1.jpg
+  filename: I-Need_Fabienne-Hess.jpg
 
 - type: image
-  filename: VientredeTiburon_fabiennehess_1.jpg
+  filename: Tiburon_FabienneHess_1.jpg
 
 - type: image
-  filename: Argyle-House_reddot_FabienneHess.jpg
+  filename: Argyle_FabienneHess_17.jpg
 
 - type: image
-  filename: Argyle-House_reddot_FabienneHess_2.jpg
+  filename: Argyle_FabienneHess_8.jpg
 
 - type: image
   filename: ZBB_FabienneHess_1.jpg
 
 - type: image
-  filename: HitsandMisses_FabienneHess_2.jpg
+  filename: FabienneHess_Hits-and-Misses_6.jpg
 
 - type: vimeo
-  code: <iframe src="https://player.vimeo.com/video/108101767?title=0&byline=0&portrait=0" width="528" height="297" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  code: <iframe src="https://player.vimeo.com/video/108101767?title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+- type: image
+  filename: Argyle_FabienneHess_10.jpg
+
+- type: image
+  filename: Argyle_FabienneHess_15.jpg
+
+- type: image
+  filename: ZBB_FabienneHess_2.jpg
+
+- type: image
+  filename: It-requires_Fabienne-Hess.jpg
+
+- type: image
+  filename: Collective-Vomit_3.gif
+
+- type: image
+  filename: Tiburon_FabienneHess_6.jpg
+
+- type: image
+  filename: ZBB_FabienneHess_3.jpg
+
+- type: image
+  filename: Argyle_FabienneHess_2.jpg
+
+- type: image
+  filename: FabienneHess_Hits-and-Misses_4.jpg
+
+- type: image
+  filename: Argyle_FabienneHess_11.jpg
+
+- type: image
+  filename: Corruted_detail_FabienneHess.jpg
+
+- type: image
+  filename: Terms-and-Conditions-(email)_FHess-detail.jpg
+
+- type: image
+  filename: FabienneHess_Hits-and-Misses_2.jpg
+
+- type: image
+  filename: Tiburon_FabienneHess_4.jpg
+
+- type: image
+  filename: Argyle_FabienneHess_3.jpg
+
+- type: image
+  filename: Fabienne Hess Upstream Gallery.jpg
+
+- type: image
+  filename: FabienneHess_RecoveredVIII_2.jpg
+
+- type: image
+  filename: Dietrich_FabienneHEss.jpg
+
+- type: image
+  filename: Terms-and-Conditions_Fabienne-Hess_5.jpg
+
+- type: image
+  filename: Yours-Sincerely-Forever_Fabienne-Hess.jpg
+
+- type: image
+  filename: FH_ReplicaSentiments.jpg
+
+- type: image
+  filename: Argyle_FabienneHess_21.jpg
+
+- type: vimeo
+  code: <iframe src="https://player.vimeo.com/video/113281932?title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+- type: image
+  filename: Corrupted_LALD_edit.jpg
+
+- type: image
+  filename: Argyle_FabienneHess_9.jpg
