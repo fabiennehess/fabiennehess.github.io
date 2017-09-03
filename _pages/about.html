@@ -148,6 +148,39 @@ PUBLICATIONS / REVIEWS
 
 
 
+<div class = "h2">
+COMMISSIONS
+</div>
+
+
+<div class = section>
+{% for exhibit in site.data.commissions %}
+
+<div class = "entry">
+  <div class = "year">
+  <span class ="top">{{ exhibit.year }}</div>
+  </span>
+   <div class = "data">{{ exhibit.title }}</div>
+</div>
+
+
+
+{% endfor %}
+</div>
+
+<div class = "giffy">
+<img src="/gifs/LAYERS_for-GIF_Monet_2_lessframes_TINY.gif">
+</div>
+
+
+
+
+
+
+<div class = "giffy">
+<img src="/gifs/LAYERS_for-GIF_Malevich_1_TINY.gif">
+</div>
+
 
 
 <div class = "h2">
@@ -169,39 +202,6 @@ RESIDENCIES
 
 {% endfor %}
 </div>
-
-<div class = "giffy">
-<img src="/gifs/LAYERS_for-GIF_Monet_2_lessframes_TINY.gif">
-</div>
-
-
-
-
-<div class = "h2">
-COMMISSIONS
-</div>
-
-
-<div class = section>
-{% for exhibit in site.data.commissions %}
-
-<div class = "entry">
-  <div class = "year">
-  <span class ="top">{{ exhibit.year }}</div>
-  </span>
-   <div class = "data">{{ exhibit.title }}</div>
-</div>
-
-
-
-{% endfor %}
-</div>
-
-
-<div class = "giffy">
-<img src="/gifs/LAYERS_for-GIF_Malevich_1_TINY.gif">
-</div>
-
 
 
 
