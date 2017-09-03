@@ -49,7 +49,7 @@
   filename: It-requires_Fabienne-Hess.jpg
 
 - type: vimeo
-  filename: <img scr="Collective-Vomit_3.gif" alt="window" style="width45%">
+  code: <img src="/images/Collective-Vomit_3.gif" style="width:60%; min-width:450px">
 
 - type: image
   filename: Tiburon_FabienneHess_6.jpg
