@@ -107,7 +107,9 @@ body {
 
 .data {
   width: 625px;
-  max-width: 83%;
+  max-width: 100%;
+  // margin-bottom: .4rem;
+
 }
 
 .section {
@@ -115,9 +117,7 @@ body {
   padding-bottom: 30px;
 }
 
-.year, .data {
-display: inline-block;
-}
+
 
 .h2 {
   color: blue;
@@ -152,6 +152,9 @@ div {
     padding-top: 0;
 }
 
+.year, .data {
+display: inline-block;
+}
 
 .underline {
      border-bottom: 1px solid #000;
@@ -219,7 +222,11 @@ div {
        line-height: 125%;
    }
    .data {
-      line-height: 125%;
+      margin-top: 4px;
+      line-height: 130%;
+        max-width: 83%;
+        padding-bottom:5px;
+
    }
    .everything, .everything2 {
      margin-left: 2.5rem;
@@ -227,4 +234,5 @@ div {
    body {
      margin: none;
    }
+
 }
