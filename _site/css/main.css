@@ -62,5 +62,5 @@ div { overflow: hidden; }
   .entry { margin-top: -10px; }
   p { line-height: 125%; }
   .data { line-height: 125%; }
-  .everything { margin-left: 2.5rem; }
+  .everything, .everything2 { margin-left: 2.5rem; }
   body { margin: none; } }
