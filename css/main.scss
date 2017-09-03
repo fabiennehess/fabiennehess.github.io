@@ -98,7 +98,7 @@ body {
 .year {
   padding-top: 5px;
   vertical-align: top;
-  width: 75px;
+  width: 65px;
   max-width: 20%;
   font-size: 70%;
   font-weight: 600;
@@ -106,7 +106,7 @@ body {
 }
 
 .data {
-  width: 625px;
+  width: 715px;
   max-width: 100%;
   // margin-bottom: .4rem;
 
@@ -208,7 +208,7 @@ display: inline-block;
 
 
 @media only screen
- and (min-device-width: 600px) {
+ and (min-device-width: 668px) {
    .h2 {
    margin-bottom: 10px;
   }
