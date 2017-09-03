@@ -2,211 +2,40 @@
 layout : default
 ---
 
-<div>
-
-
+<div class = "everything">
 <div class = "headings">
-<span class = "underline">ABOUT</span> <a href="{{ site.baseurl }} work/"> WORK</a> <a href="{{ site.baseurl }} inprogress/">IN-PROGRESS</a>
+<a href="{{ site.baseurl }} /about/"> ABOUT </a> <span class = "underline">WORK</span> <a href="{{ site.baseurl }} /inprogress/">IN-PROGRESS</a>
 </div>
 
+{% for item in site.data.work %}
 
-<div id = "main">
+{% if item.type == "image" %}
 
-<!-- <div class = "h2">
-NEWS
+<div class = "item">
+
+  <img src= "{{ site.baseurl }}/images/{{ item.filename}}">
+
 </div>
 
-<div class = "news">
-Lorem ipsum dolor set amet. Blar diene dlsdfjsld rrrrr ssss dfsdfsdf hfhfh sdfeed ddf and do sisches.
+{% endif %}
+
+{% if item.type == "vimeo" %}
+
+<div class = "item">
+  {{ item.code }}
 </div>
 
-{::options parse_block_html="false" /}
+{% endif %}
 
-<div class = "giffy">
-<img src="images/LAYERS_for-GIF_Monet_2_lessframes_TINY.gif">
-</div> -->
+{% endfor %}
 
-<div class = "h2">
-INFO (AT) FABIENNEHESS.COM
+
+<div class = "credits">
+  PHOTOGRAPHIC CREDITS
 </div>
-<div class= "h2after">
-INSTAGRAM: FABIENNE_HESS
-</div>
+
 <p>
-  I am interested in things which are difficult to see, forgotten, marginalized. This can be the extent  of the collections of the University of Edinburgh; deleted digital images or the individual threads of a tightly woven silk cloth. With my work I try to see them for myself and render them visible to the world. This usually involves grouping images according to visual similarity,  slippery materials, undoing an existing order. And it is often a laborious manual process where I spend a long time repeating a small gesture. Like scrolling through thousands of images, drawing words on fragile plastic or undoing silk into threads.
+  Birch Contemporary, Fabienne Hess, Like A Little Disaster, Chris Park, Antonia Reeve, Tenderbooks, and the University of Edinburgh.
 </p>
-
-
-<div class = "giffy">
-<img src="gifs/LAYERS_for-GIF_Kelly_Tiny.gif">
-</div>
-
-<div class = "h2">
-EDUCATION
-</div>
-
-<div class = "section">
-<div class = "year"><span class ="top">2012</span></div><div class = "data"> Master of Arts, <span class = "underline">Royal College of Art</span>, London</div>
-<div>
-<div class = "year">
-<span class ="top">2004</span>
-</div><div class = "data">
-Diploma in graphic design, <span class = "underline">Vocational College
-for Art & Design</span>, Zürich</div>
-</div>
-
-
-</div>
-
-
-<div class = "giffy">
-<img src="gifs/Robert-Ryman_4_TINY.gif">
-</div>
-
-
-<div class = "h2">
-SOLO EXHIBITIONS
-</div>
-
-
-<div class = section>
-{% for exhibit in site.data.solo %}
-<div class = "entry">
-  <div class = "year">
-  <span class ="top">{{ exhibit.year }}</div>
-  </span>
-   <div class = "data">{{ exhibit.title }}</div>
-</div>
-{% endfor %}
-</div>
-
-<div class = "giffy">
-<img src="gifs/IBK_tiny_2.gif">
-</div>
-
-
-
-
-<div class = "h2">
-SELECTED GROUP EXHIBITIONS
-</div>
-
-
-<div class = section>
-{% for exhibit in site.data.group %}
-
-<div class = "entry">
-  <div class = "year">
-  <span class ="top">{{ exhibit.year }}</div>
-  </span>
-   <div class = "data">{{ exhibit.title }}</div>
-</div>
-
-
-
-{% endfor %}
-</div>
-
-<div class = "giffy">
-<img src="gifs/LAYERS_for-GIF_Olympia_1_lessframes_TINY.gif">
-</div>
-
-<div class = "h2">
-SELECTED SCREENINGS / TALKS
-</div>
-
-
-<div class = section>
-{% for exhibit in site.data.screenings %}
-
-<div  class = "entry">
-  <div class = "year">
-  <span class ="top">{{ exhibit.year }}</div>
-  </span>
-   <div class = "data">{{ exhibit.title }}</div>
-</div>
-
-
-
-{% endfor %}
-</div>
-
-<div class = "giffy">
-<img src="gifs/Who-is-afraid_5_lessframes_TINY.gif">
-</div>
-
-
-<div class = "h2">
-PUBLICATIONS / REVIEWS
-</div>
-
-
-<div class = section>
-{% for exhibit in site.data.pubs %}
-
-<div class = "entry">
-  <div class = "year">
-  <span class ="top">{{ exhibit.year }}</div>
-  </span>
-   <div class = "data">{{ exhibit.title }}</div>
-</div>
-
-
-
-{% endfor %}
-</div>
-
-<div class = "giffy">
-<img src="gifs/LAYERS_for-GIF_Monet_2_lessframes_TINY.gif">
-</div>
-
-
-<div class = "h2">
-RESIDENCIES
-</div>
-
-
-<div class = section>
-{% for exhibit in site.data.residencies %}
-
-<div class = "entry">
-  <div class = "year">
-  <span class ="top">{{ exhibit.year }}</div>
-  </span>
-   <div class = "data">{{ exhibit.title }}</div>
-</div>
-
-
-
-{% endfor %}
-</div>
-
-<div class = "giffy">
-<img src="gifs/LAYERS_for-GIF_Malevich_1_TINY.gif">
-</div>
-
-<div class = "h2">
-COMMISSIONS
-</div>
-
-
-<div class = section>
-{% for exhibit in site.data.commissions %}
-
-<div class = "entry">
-  <div class = "year">
-  <span class ="top">{{ exhibit.year }}</div>
-  </span>
-   <div class = "data">{{ exhibit.title }}</div>
-</div>
-
-
-
-{% endfor %}
-</div>
-
-
-
-</div>
 
 </div>

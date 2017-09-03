@@ -44,7 +44,7 @@ div { overflow: hidden; }
 
 .title { font-size: 80%; letter-spacing: 1.5px; padding-bottom: 17px; padding-top: 0; }
 
-.underline { text-decoration: underline; }
+.underline { border-bottom: 1px solid #000; padding-bottom: 1px; }
 
 .active { background-color: #6E6E6E; color: black; }
 
@@ -59,4 +59,6 @@ div { overflow: hidden; }
   .h2after { margin-top: -8px; }
   .entry { margin-top: -10px; }
   p { line-height: 125%; }
-  .data { line-height: 125%; } }
+  .data { line-height: 125%; }
+  .everything { margin-left: 2.5rem; }
+  body { margin: none; } }
