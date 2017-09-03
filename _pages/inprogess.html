@@ -4,11 +4,34 @@ permalink: /inprogress/
 ---
 
 
-<div class = "everything">
+<div class = "everything" class = "collection">
 
   <div class = "headings">
   <a href="{{ site.baseurl }}/about/" > ABOUT </a> <a href="{{ site.baseurl }}/"> WORK</a> <span class = "underline">IN-PROGRESS</span>
   </div>
+
+
+{% for item in site.data.inprogress %}
+
+{% if item.type == "image" %}
+
+<div class = "item">
+
+  <img src= "{{ site.baseurl }}/images/{{ item.filename}}">
+
+</div>
+
+{% endif %}
+
+{% if item.type == "vimeo" %}
+
+<div class = "item">
+  {{ item.code }}
+</div>
+
+{% endif %}
+
+{% endfor %}
 
 
 
