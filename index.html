@@ -18,12 +18,20 @@ layout : default
 
 </div>
 
+<div class = "caption">
+{{ item.caption }}
+</div>
+
 {% endif %}
 
 {% if item.type == "vimeo" %}
 
 <div class = "item">
   {{ item.code }}
+</div>
+
+<div class = "caption">
+{{ item.caption }}
 </div>
 
 {% endif %}
