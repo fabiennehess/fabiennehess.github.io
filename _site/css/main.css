@@ -6,7 +6,7 @@ a, a:visited { color: black; text-decoration: none; }
 
 .item { margin-bottom: 4px; }
 
-.headings { position: fixed; overflow: hidden; top: 0; width: 100%; background-color: white; height: 1.7rem; padding-top: 20px; word-spacing: 1rem; text-transform: uppercase; }
+.headings { position: fixed; overflow: hidden; top: 0; width: 100%; background-color: white; height: 1.7rem; padding-top: 20px; word-spacing: 1rem; letter-spacing: 5px; text-transform: uppercase; }
 
 @media screen and (min-width: 32rem) and (max-width: 48rem) { html { font-size: 20px; } }
 @media screen and (min-width: 48rem) { html { font-size: 22px; } }
@@ -28,7 +28,7 @@ body { color: black; font-family: Helvetica,  Arial, sans-serif; margin: 0 auto;
 
 .top { margin-top: -50%; }
 
-.year { padding-top: 5px; vertical-align: top; width: 65px; max-width: 20%; font-size: 70%; font-weight: 600; letter-spacing: 1.5px; }
+.year { padding-top: 7px; vertical-align: top; width: 65px; max-width: 20%; font-size: 70%; font-weight: 600; letter-spacing: 1.5px; }
 
 .data { width: 715px; max-width: 100%; }
 
