@@ -43,6 +43,10 @@
   type: image
   filename: Further-Unode_paint.jpg
 
+- caption:  
+  type: image
+  filename: trash_1.jpg
+  
 - caption: 
   type: image
   filename: FurtherUndone_6.jpg
