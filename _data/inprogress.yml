@@ -1,3 +1,10 @@
+- caption: 
+  type: image
+  filename: further-undone_modern.jpg
+  
+- caption: 
+  type: image
+  filename: further_undone_reference.jpg
 
 - caption: 
   type: image
@@ -29,7 +36,7 @@
 
 - caption: 
   type: image
-  filename: FurtherUndone_4.jpg
+  filename: further-undone_chaos_large.jpg
 
 - caption: 
   type: image
