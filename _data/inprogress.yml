@@ -1,10 +1,18 @@
 - caption: 
   type: image
   filename: FurtherUndone_Dietrich.jpg
-  
+
 - caption: 
   type: image
-  filename: FurtherUndone_fabric.jpg
+  filename: FurtherUndone_Dietrich_detail.jpg
+
+- caption: 
+  type: image
+  filename: Further-Undone_fabric.jpg
+
+- caption: 
+  type: image
+  filename: Further-Undone_MadameX_detail.jpg
   
 - caption: 
   type: image
@@ -49,10 +57,6 @@
 - caption: 
   type: image
   filename: FurtherUndone_2.jpg
-
-- caption: 
-  type: image
-  filename: further-undone_chaos_large.jpg
 
 - caption: 
   type: image
