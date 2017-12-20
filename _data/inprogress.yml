@@ -1,14 +1,22 @@
 - caption: 
   type: image
+  filename: spring-soft.jpg
+
+- caption: 
+  type: image
+  filename: cable-wet.jpg
+
+- caption: 
+  type: image
+  filename: splash.jpg
+
+- caption: 
+  type: image
   filename: FurtherUndone_Dietrich.jpg
 
 - caption: 
   type: image
   filename: FurtherUndone_Dietrich_detail.jpg
-
-- caption: 
-  type: image
-  filename: Further-Undone_fabric.jpg
 
 - caption: 
   type: image
@@ -21,10 +29,6 @@
 - caption: 
   type: image
   filename: FurtherUndone_the-first.jpg
-  
-- caption: 
-  type: image
-  filename: further-undone_modern.jpg
   
 - caption: 
   type: image
