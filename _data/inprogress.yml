@@ -1,14 +1,18 @@
 - caption: 
   type: image
+  filename: Noise_Arcimboldo.jpg
+  
+- caption: 
+  type: image
+  filename: Noise_Monet.jpg
+
+- caption: 
+  type: image
   filename: spring-soft.jpg
 
 - caption: 
   type: image
   filename: cable-wet.jpg
-
-- caption: 
-  type: image
-  filename: splash.jpg
 
 - caption: 
   type: image
