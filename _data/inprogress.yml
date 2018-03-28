@@ -1,5 +1,17 @@
 - caption: 
   type: image
+  filename: Colombia_FabienneHess_Undone_2.jpg
+
+- caption: 
+  type: image
+  filename: Colombia_FabienneHess_Undone.jpg
+
+- caption: Flying fish in motion, Roslin Slides, University of Edinburgh
+  type: image
+  filename: Roslin-Slide_UniofEdinburgh.jpg
+
+- caption: 
+  type: image
   filename: Pixels_FabienneHEss_Closeup.jpg
   
 - caption: 
@@ -86,9 +98,9 @@
   type: image
   filename: Furtherundone_1.jpg
 
-- caption: 
+- caption: Tesla in his Lab, 1901, Wellcome Collection
   type: image
-  filename: cable.jpg
+  filename: tesla-in-his-lab.jpg
 
 - caption: 
   type: image
