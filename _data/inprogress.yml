@@ -12,6 +12,10 @@
 
 - caption: 
   type: image
+  filename: Net.jpg
+
+- caption: 
+  type: image
   filename: Grids_2.jpg
 
 - caption: 
@@ -96,15 +100,11 @@
   
 - caption: 
   type: image
-  filename: FurtherUndone_the-first.jpg
+  filename: Grass_2.jpg
 
 - caption: 
   type: image
   filename: Further-Undone_Cloud_1.jpg
-
-- caption: 
-  type: image
-  filename: Grass_2.jpg
 
 - caption: 
   type: image
@@ -128,7 +128,7 @@
 
 - caption:  
   type: image
-  filename: further-undone_chaos.jpg
+  filename: FurtherUndone_6.jpg
 
 - caption:  
   type: image
@@ -138,22 +138,3 @@
   type: image
   filename: trash_1.jpg
   
-- caption: 
-  type: image
-  filename: FurtherUndone_6.jpg
-
-- caption: 
-  type: image
-  filename: Net.jpg
-
-- caption: 
-  type: image
-  filename: Hanging.jpg
-
-- caption: 
-  type: image
-  filename: Dust_2.jpg
-
-- caption: 
-  type: image
-  filename: Dust.jpg
