@@ -1,5 +1,25 @@
 - caption: 
   type: image
+  filename: Grids_5.jpg
+
+- caption: 
+  type: image
+  filename: Grids_4.jpg
+
+- caption: 
+  type: image
+  filename: Grids_3.jpg
+
+- caption: 
+  type: image
+  filename: Grids_2.jpg
+
+- caption: 
+  type: image
+  filename: Grids_1.jpg
+
+- caption: 
+  type: image
   filename: Colombia_FabienneHess_Undone_4.jpg
 
 - caption: 
@@ -13,10 +33,6 @@
 - caption: 
   type: image
   filename: Colombia_FabienneHess_Undone.jpg
-
-- caption: Flying fish in motion, Roslin Slides, University of Edinburgh
-  type: image
-  filename: Roslin-Slide_UniofEdinburgh.jpg
 
 - caption: 
   type: image
@@ -81,10 +97,6 @@
 - caption: 
   type: image
   filename: FurtherUndone_the-first.jpg
-  
-- caption: 
-  type: image
-  filename: further_undone_reference.jpg
 
 - caption: 
   type: image
@@ -105,10 +117,6 @@
 - caption: 
   type: image
   filename: Furtherundone_1.jpg
-
-- caption: Tesla in his Lab, 1901, Wellcome Collection
-  type: image
-  filename: tesla-in-his-lab.jpg
 
 - caption: 
   type: image
