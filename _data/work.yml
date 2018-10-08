@@ -47,10 +47,6 @@
   type: image
   filename: 11_FabienneHess.jpg
 
-- caption:  <i>Waiting Watching Senegal</i>. Made with trashed footage from a Senegalese TV production company sent to me by one of the curators of the Dakar Biennial. Commissioned by Dakar Biennial.
-  type: vimeo
-  code: <iframe src="https://player.vimeo.com/video/93631528?title=0&byline=0&portrait=0" width="900" height="675" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 - caption:  <i>Veintre de Tiburón</i>. Image found on used USB sticks bought in the informal markets of Cali.
   type: image
   filename: 12_FabienneHess.jpg
@@ -98,10 +94,6 @@
 - caption: 
   type: image
   filename: 23_FabienneHess.jpg
-
-- caption: <i>Pointers</i>. From the University of Edinburgh’s collections.
-  type: image
-  filename: FabienneHess_Quad_Gif.gif
 
 - caption: <i>Pointers</i>. From the University of Edinburgh’s collections.
   type: image
