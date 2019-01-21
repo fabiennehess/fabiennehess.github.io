@@ -1,238 +1,231 @@
 
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_17_FabienneHess.jpg
+  filename: 01_FabienneHess.jpg
+  percentage: 100
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_16_FabienneHess.jpg
+  filename: 02_FabienneHess.jpg
+  percentage: 100
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_15_FabienneHess.jpg
+  filename: 03_FabienneHess.jpg
+  percentage: 70
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_14_FabienneHess.jpg
+  filename: 04_FabienneHess.jpg
+  percentage: 60
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_13_FabienneHess.jpg
+  filename: 05_FabienneHess.jpg
+  percentage: 80
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_12_FabienneHess.jpg
+  filename: 06_FabienneHess.jpg
+  percentage: 50
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_11_FabienneHess.jpg
+  filename: 07_FabienneHess.jpg
+  percentage: 80
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_10_FabienneHess.jpg
+  filename: 09_FabienneHess.jpg
+  percentage: 90
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_9_FabienneHess.jpg
+  filename: 11_FabienneHess.jpg
+  percentage: 30
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_8_FabienneHess.jpg
+  filename: 12_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_7_FabienneHess.jpg
+  filename: 13_FabienneHess.jpg
+  percentage: 60
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_6_FabienneHess.jpg
+  filename: 14_FabienneHess.jpg
+  percentage: 25
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_5_FabienneHess.jpg
+  filename: 16_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_4.5_FabienneHess.jpg
+  filename: 18_FabienneHess.jpg
+  percentage: 30
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_4_FabienneHess.jpg
+  filename: 19_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_3_FabienneHess.jpg
+  filename: 20_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: turning-away_2_FabienneHess.jpg
+  filename: 21_FabienneHess.jpg
+  percentage: 30
 
-- caption: 
+- caption:
   type: image
-  filename: turnign-away_1.jpg
+  filename: 22_FabienneHess.jpg
+  percentage: 100
 
-- caption: 
+- caption:
   type: image
-  filename: squash.jpg
+  filename: 23_FabienneHess.jpg
+  percentage: 60
 
-- caption: 
+- caption:
   type: image
-  filename: Grids_5.jpg
+  filename: 24_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: Grids_4.jpg
+  filename: 25_FabienneHess.jpg
+  percentage: 90
 
-- caption: 
+- caption:
   type: image
-  filename: Grids_3.jpg
+  filename: 26_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: Net.jpg
+  filename: 27_FabienneHess.jpg
+  percentage: 100
 
-- caption: 
+- caption:
   type: image
-  filename: Grids_2.jpg
+  filename: 28_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: Grids_1.jpg
+  filename: 29_FabienneHess.jpg
+  percentage: 30
 
-- caption: 
+- caption:
   type: image
-  filename: Colombia_FabienneHess_Undone_4.jpg
+  filename: 30_FabienneHess.jpg
+  percentage: 100
 
-- caption: 
+- caption:
   type: image
-  filename: Colombia_FabienneHess_Undone_3.jpg
+  filename: 31_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: Colombia_FabienneHess_Undone_2.jpg
+  filename: 32_FabienneHess.jpg
+  percentage: 90
 
-- caption: 
+- caption:
   type: image
-  filename: Colombia_FabienneHess_Undone.jpg
+  filename: 33_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: Pixels_FabienneHEss_Closeup.jpg
-  
-- caption: 
-  type: image
-  filename: pixels_FabienneHEss.jpg
-  
-- caption: 
-  type: image
-  filename: Canal_FabienneHEss.jpg
+  filename: 34_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: Noise_MadameX.jpg
-  
-- caption: 
-  type: image
-  filename: Noise-Madame-X_closeup.jpg
+  filename: 36_FabienneHess.jpg
+  percentage: 30
 
-- caption: 
+- caption:
   type: image
-  filename: Noise_Arcimboldo.jpg
-  
-- caption: 
-  type: image
-  filename: spray.jpg
+  filename: 37_FabienneHess.jpg
+  percentage: 50
 
-- caption: 
+- caption:
   type: image
-  filename: Noise_Monet_Close-up.jpg
+  filename: 39_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: Noise_Monet.jpg
+  filename: 40_FabienneHess.jpg
+  percentage: 80
 
-- caption: 
+- caption:
   type: image
-  filename: spring-soft-closeup.jpg
+  filename: 41_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: spring-soft.jpg
+  filename: 42_FabienneHess.jpg
+  percentage: 100
 
-- caption: 
+- caption:
   type: image
-  filename: cable-wet.jpg
+  filename: 43_FabienneHess.jpg
+  percentage: 60
 
-- caption: 
+- caption:
   type: image
-  filename: FurtherUndone_Dietrich.jpg
+  filename: 44_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: FurtherUndone_Dietrich_detail.jpg
+  filename: 45_FabienneHess.jpg
+  percentage: 90
 
-- caption: 
+- caption:
   type: image
-  filename: Further-Undone_MadameX_detail.jpg
-  
-- caption: 
-  type: image
-  filename: Flotsam_FabienneHess.jpg
+  filename: 46_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: Further-Undone_MadameX.jpg
-  
-- caption: 
-  type: image
-  filename: Grass_2.jpg
+  filename: 47_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: Further-Undone_Cloud_1.jpg
+  filename: 48_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: Further-Undone_cloud.jpg
+  filename: 49_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: Bush_FabienneHess.jpg
+  filename: 50_FabienneHess.jpg
+  percentage: 40
 
-- caption: 
+- caption:
   type: image
-  filename: FurtherUndone_3.jpg
+  filename: 51_FabienneHess.jpg
+  percentage: 50
 
-- caption: 
+- caption:
   type: image
-  filename: flotsam_FabienneHess-2.jpg
-
-- caption: 
-  type: image
-  filename: Furtherundone_1.jpg
-
-- caption: 
-  type: image
-  filename: FurtherUndone_the-first.jpg
-
-- caption: 
-  type: image
-  filename: FurtherUndone_2.jpg
-
-- caption: 
-  type: image
-  filename: FurtherUndone_5.jpg
-
-- caption:  
-  type: image
-  filename: FurtherUndone_6.jpg
-
-- caption:  
-  type: image
-  filename: Further-Unode_paint.jpg
-
-- caption:  
-  type: image
-  filename: trash_1.jpg
-  
+  filename: 52_FabienneHess.jpg
+  percentage: 100

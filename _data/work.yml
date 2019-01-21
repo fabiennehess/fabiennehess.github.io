@@ -1,127 +1,165 @@
 
-- caption: <i>Marlene</i>. Retrieved via trash-recovery software from my computer.
+- caption: <i>Marlene</i>. Retrieved via trash-recovery software from my computer. Digitally printed silk.
   type: image
-  filename: 31_FabienneHess.jpg
-
-- caption: <i>Apollinaire, Baur</i>. Retrieved via trash-recovery software from my computer.
-  type: image
-  filename: 32_FabienneHess.jpg
+  filename: FHESS_Dietrich_instagram_fmt.jpg
+  percentage: 34
 
 - caption: 
   type: image
-  filename: 33_FabienneHess.jpg
+  filename: 23_fmt.jpg
+  percentage: 100
 
-- caption: <i>Sid</i>. Retrieved via trash-recovery software from my computer.
+- caption: <i>Apollinaire, Baur, Madame X</i>. Retrieved via trash-recovery software from my computer. Digitally printed silk.
   type: image
-  filename: 34_FabienneHess.jpg
+  filename: 19_fmt.jpg
+  percentage: 34
 
-- caption: <i>Madame X</i>. Retrieved via trash-recovery software from my computer.
+- caption: 
   type: image
-  filename: 35_FabienneHess.jpg
+  filename: 2_fmt.jpg
+  percentage: 50
 
-- caption: <i>Collective Vomit</i>. Images found via trash-recovery software on USB sticks belonging to participants of a workshop
+- caption: <i>Sid</i>. Retrieved via trash-recovery software from my computer. Digitally printed silk.
+  type: image
+  filename: FHESS_Sid_reformatted2_fmt.jpg
+  percentage: 80
+
+- caption: <i>Collective Vomit</i>. Images found via trash-recovery software on USB sticks belonging to participants of a workshop.
   type: vimeo
   code: <img src="/images/Collective-Vomit_3.gif" style="width:60%; min-width:450px">
+  percentage: 100
 
-- caption: <i>Terms and Conditions</i>. One fifth of Airbnb’s T&C we agree to when using their service.
+- caption: <i>Terms and Conditions</i>. One fifth of Airbnb’s T&C we agree to when using their service. Marker on dust-sheet.
   type: image
-  filename: 5_FabienneHess.jpg
+  filename: FH-2015-Terms_and_Conditions_1_4-HIRES_fmt.jpg
+  percentage: 100
 
-- caption: <i>Trust Me</i>. From my spam folder.
+- caption: <i>Trust Me</i>. From my spam folder. Acrylic on cling film.
   type: image
-  filename: 6_FabienneHess.jpg
-
-- caption: <i>Trust Me</i>. From my spam folder.
-  type: image
-  filename: 7_FabienneHess.jpg
-
-- caption: <i>We</i>. From my spam folder.
-  type: image
-  filename: 8_FabienneHess.jpg
+  filename: IMG_2242_fmt.jpg
+  percentage: 30
 
 - caption: 
   type: image
-  filename: 9_FabienneHess.jpg
+  filename: IMG_2206_fmt.jpg
+  percentage: 80
 
-- caption: <i>I need</i>. From my spam folder.
   type: image
-  filename: 10_FabienneHess.jpg
+  filename: IMG_2243_fmt.jpg
+  percentage: 60
 
-- caption: <i>Help</i>. From my spam folder.
-  type: image
-  filename: 11_FabienneHess.jpg
 
-- caption:  <i>Veintre de Tiburón</i>. Image found on used USB sticks bought in the informal markets of Cali.
+- caption: <i>We</i>. From my spam folder. Acrylic on dust-sheet.
   type: image
-  filename: 12_FabienneHess.jpg
+  filename: FH_ReplicaSentiments_fmt.jpg
+  percentage: 30
 
-- caption:  <i>Veintre de Tiburón</i>. Images found on used USB sticks bought in the informal markets of Cali.
+- caption: <i>I need</i>. From my spam folder. Marker on dust-sheet.
   type: image
-  filename: 13_FabienneHess.jpg
+  filename: IMG_2109_fmt.jpg
+  percentage: 80
 
-- caption: <i>Veintre de Tiburón</i>. Images found on used USB sticks bought in the informal markets of Cali.
+- caption: <i>Help</i>. From my spam folder. Marker on dust-sheet.
   type: image
-  filename: 14_FabienneHess.jpg
+  filename: IMG_2177_fmt.jpg
+  percentage: 50
 
-- caption:  <i>Untitled</i>. From the spam folder.
+- caption:  <i>Veintre de Tiburón</i>. Image found on used USB sticks bought in the informal markets of Cali. Digitally printed silk.
   type: image
-  filename: 15_FabienneHess.jpg
+  filename: IMG_7610_fmt.jpg
+  percentage: 70
 
-- caption: <i>Zebras, Blanks and Blobs</i>. Image families from the University of Edinburgh’s collections.
+- caption:  <i>Veintre de Tiburón</i>. Images found on used USB sticks bought in the informal markets of Cali. Digitally printed silk.
   type: image
-  filename: 16_FabienneHess.jpg
+  filename: IMG_8902_fmt.jpg
+  percentage: 100
 
-- caption: <i>Red Dots</i>. From the University of Edinburgh’s collections.
-  type: image
-  filename: 17_FabienneHess.jpg
-
-- caption: <i>Triangles</i>. From the University of Edinburgh’s collections.
-  type: image
-  filename: 18_FabienneHess.jpg
 
 - caption: 
   type: image
-  filename: 19_FabienneHess.jpg
+  filename: 1795264_1465517916995130_1582267020_o_fmt.jpg
+  percentage: 60
+
+- caption:  <i>Untitled</i>. From the spam folder. Digitally printed vinyl.
+  type: image
+  filename: IMG_1329_fmt.jpg
+  percentage: 20
+
+- caption: <i>Zebras, Blanks and Blobs</i>. Image families from the University of Edinburgh’s collections. Artist book.
+  type: image
+  filename: Tenderbooks-273_40a352ad-802d-48e0-8b90-d1fe1ff1a95c_fmt.jpg
+  percentage: 40
+
+- caption: <i>Red Dots</i>. From the University of Edinburgh’s collections. Artist book.
+  type: image
+  filename: Tenderbooks-276_b1c6a7ab-3612-4fce-8f09-40685ec3d76e_1024x1024_fmt.jpg
+  percentage: 60
+
+- caption: <i>Triangles</i>. From the University of Edinburgh’s collections. Artist book.
+  type: image
+  filename: Tenderbooks-274_1024x1024_fmt.jpg
+  percentage: 60
+
+- caption: <i>Triangles</i>. From the University of Edinburgh’s collections. Digitally printed vinyl.
+  type: image
+  filename: 170414FabienneHess-34_fmt.jpg
+  percentage: 25
+
+- caption: <i>Red Dots</i>. From the University of Edinburgh’s collections. Digitally printed vinyl.
+  type: image
+  filename: 170414FabienneHess-29_fmt.jpg
+  percentage: 70
 
 - caption: 
   type: image
-  filename: 20_FabienneHess.jpg
+  filename: 170414FabienneHess-18_fmt.jpg
+  percentage: 35
 
-- caption: <i>Red Dots</i>. From the University of Edinburgh’s collections.
+- caption: <i>Curves</i>. From the University of Edinburgh’s collections. Digitally printed vinyl.
   type: image
-  filename: 21_FabienneHess.jpg
+  filename: 170414FabienneHess-06_fmt.jpg
+  percentage: 100
 
-- caption: <i>Curves</i>. From the University of Edinburgh’s collections.
+- caption:
   type: image
-  filename: 22_FabienneHess.jpg
+  filename: 170414FabienneHess-36_fmt.jpg
+  percentage: 30
+
+- caption: <i>Pointers</i>. From the University of Edinburgh’s collections. Digitally printed vinyl.
+  type: image
+  filename: 170414FabienneHess-19_fmt.jpg
+  percentage: 60
 
 - caption: 
   type: image
-  filename: 23_FabienneHess.jpg
+  filename: 170414FabienneHess-25_fmt.jpg
+  percentage: 20
 
-- caption: <i>Pointers</i>. From the University of Edinburgh’s collections.
+- caption: <i>Zebras</i>. From the University of Edinburgh’s collections. Digitally printed vinyl.
   type: image
-  filename: 24_FabienneHess.jpg
+  filename: 0143013d_fmt.jpg
+  percentage: 50
 
-- caption: <i>Zebras</i>. From the University of Edinburgh’s collections.
-  type: image
-  filename: 25_FabienneHess.jpg
 
 - caption: <i>Hits and Misses (from the archive)</i>. One of the University of Edinburgh’s collection entries which at the time of <i>Hits and Misses</i>  had never been clicked-on.
   type: image
-  filename: 26_FabienneHess.jpg
+  filename: FabienneHess_Hits-and-Misses_4_fmt.jpg
+  percentage: 40
 
-- caption: <i>Hits and Misses (from the archive)</i>. The entire digitised collection of the University of Edinburgh.
+- caption: <i>Hits and Misses (from the archive)</i>. The entire digitised collection of the University of Edinburgh. Digitally printed silk.
   type: image
-  filename: 27_FabienneHess.jpg
+  filename: Talbot_Rice_Fabienne_Hess_2ndAug2015-20_fmt.jpg
+  percentage: 60
 
-- caption: <i>Hits and Misses (from the archive)</i>. The entire digitised collection of the University of Edinburgh.
+- caption: <i>Hits and Misses (from the archive)</i>. The entire digitised collection of the University of Edinburgh. Digitally printed silk.
   type: image
-  filename: 28_FabienneHess.jpg
+  filename: Talbot_Rice_Fabienne_Hess_2ndAug2015-03_fmt.jpg
+  percentage: 100
 
-- caption: 
+- caption:
   type: image
-  filename: 29_FabienneHess.jpg
+  filename: Talbot_Rice_Fabienne_Hess_2ndAug2015-18_fmt.jpg
+  percentage: 40
 
 - caption: <i>The Least Important (Talbot Rice)</i>. Made with the 'least important images', sourced via open call. Commissioned by LUX.
   type: vimeo
@@ -131,26 +169,27 @@
   type: vimeo
   code: <iframe src="https://player.vimeo.com/video/108101767?title=0&byline=0&portrait=0" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-- caption: <i>Memory vomit</i>. Retrieved via trash-recovery software from my computer.
+- caption: <i>Memory vomit</i>. Retrieved via trash-recovery software from my computer. Digitally printed silk.
   type: image
-  filename: 30_FabienneHess.jpg
+  filename: FabienneHess_RecoveredVIII_2_fmt.jpg
+  percentage: 100
 
-- caption: <i>Circle Signals</i>. From the BBC archive. Commissioned by the BBC for Broadcasting House.
+- caption: <i>Circle Signals</i>. From the BBC archive. Commissioned by the BBC for Broadcasting House. Digitally printed vinyl.
   type: image
-  filename: 1_FabienneHess.jpg
+  filename: Studio_Session-008_fmt.jpg
+  percentage: 50
 
-- caption: <i>Circle Signals</i>. From the BBC archive. Commissioned by the BBC for Broadcasting House.
+- caption: <i>Circle Signals</i>. From the BBC archive. Commissioned by the BBC for Broadcasting House. Digitally printed vinyl.
   type: image
-  filename: 2_FabienneHess.jpg
+  filename: Studio_Session-086_fmt.jpg
+  percentage: 80
 
-- caption: <i>Circle Signals</i>. From the BBC archive. Commissioned by the BBC for Broadcasting House.
+- caption: <i>Circle Signals</i>. From the BBC archive. Commissioned by the BBC for Broadcasting House. Digitally printed vinyl.
   type: image
-  filename: 3_FabienneHess.jpg
+  filename: Studio_Session-056_fmt.jpg
+  percentage: 40
 
-- caption: <i>Circle Signals</i>. From the BBC archive. Commissioned by the BBC for Broadcasting House.
+- caption: <i>Circle Signals</i>. From the BBC archive. Commissioned by the BBC for Broadcasting House. Digitally printed vinyl.
   type: image
-  filename: 4_FabienneHess.jpg
-
-
-
-
+  filename: Studio_Session-077_fmt.jpg
+  percentage: 50

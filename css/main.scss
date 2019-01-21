@@ -14,6 +14,7 @@ a:visited {
   letter-spacing: 2.5px;
 }
 
+
 .credits {
   margin-top: 30px;
   color: blue;
@@ -37,17 +38,17 @@ a:visited {
   text-transform: uppercase;
 }
 
-
-@media screen and (min-width: 32rem) and (max-width: 48rem) {
-    html {
-        font-size: 20px;
-    }
-}
-@media screen and (min-width: 48rem) {
-    html {
-        font-size: 22px;
-    }
-}
+//
+// @media screen and (min-width: 32rem) and (max-width: 48rem) {
+//     html {
+//         font-size: 20px;
+//     }
+// }
+// @media screen and (min-width: 48rem) {
+//     html {
+//         font-size: 22px;
+//     }
+// }
 
 
 
@@ -65,6 +66,11 @@ textarea,
 video {
     max-width: 100%;
 }
+
+
+iframe {
+    display: block;
+}
 /*@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700);
 
 @import url(http://fonts.googleapis.com/css?family=Arimo:700,700italic);*/
@@ -81,8 +87,11 @@ body {
     // font-family: 'Montserrat', sans-serif;
     margin: 0 auto;
     max-width: 100rem;
-    line-height: 1.45;
-    padding: 30px;
+    line-height: 1.85;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 15px;
 }
 
 .giffy {
@@ -110,8 +119,9 @@ body {
 }
 
 .data {
-  width: 715px;
-  max-width: 100%;
+  width: 75%;
+  font-size: 155%;
+  //max-width: 35%;
   // margin-bottom: .4rem;
 
 }
@@ -129,7 +139,8 @@ body {
 
 
 p {
-  width: 730px;
+  font-size: 155%;
+  // width: 730px;
   max-width: 100%;
 
 }
@@ -160,13 +171,18 @@ div {
 display: inline-block;
 }
 
+
 .underline {
      border-bottom: 1px solid #000;
      padding-bottom: 1px;
 
   }
 
-
+  u{
+  border-bottom: 2px solid black; /* <— Set line thickness here*/
+  text-decoration: none;
+  padding-bottom: 1px; /* <— Set distance here*/
+  }
 
 .active {
     background-color: #6E6E6E;
@@ -182,21 +198,27 @@ display: inline-block;
 }
 
 @media only screen and
-(max-device-width : 350px) {
+(max-width : 350px) {
 .headings {
   left: 1rem;
 }
+.art {width: 100%;}
+.data {
+  width: 75%;}
 
 }
 
 @media only screen
- and (max-device-width: 600px) {
+ and (max-width: 600px) {
   html {
     font-size: 18px;
   }
+
+  .art {width: 100%;}
   .section {
     padding-top: 5px;
   }
+
   .year {
     font-size: 70%;
     letter-spacing: 1.5px;
@@ -204,6 +226,8 @@ display: inline-block;
     padding-top: 15px
   }
   p, .data  {
+      width: 100%;
+      font-size: 100%;
       line-height: 130%;
   }
 
@@ -212,7 +236,7 @@ display: inline-block;
 
 
 @media only screen
- and (min-device-width: 668px) {
+ and (min-width: 668px) and (max-width: 1199) {
    .h2 {
    margin-bottom: 10px;
   }
@@ -235,8 +259,48 @@ display: inline-block;
    .everything, .everything2 {
      margin-left: 2.5rem;
    }
+   .credits {margin-bottom: -20px}
+
    body {
      margin: none;
-   }
+   }}
 
-}
+
+
+
+   @media only screen
+    and (min-width: 1200px) {
+      .h2 {
+      margin-bottom: 10px;
+     }
+     .h2after {
+       margin-top: -8px;
+     }
+      .entry {
+        margin-top: -10px;
+      }
+
+      .data {
+         margin-top: 4px;
+         line-height: 130%;
+           max-width: 83%;
+           padding-bottom:5px;
+
+      }
+      .everything, .everything2 {
+        margin-left: 2.5rem;
+      }
+      p, .data  {
+          font-size: 155%;
+          line-height: 130%;
+      }
+      .caption {
+        font-size: 55%;
+        margin-bottom: 11px;
+      }
+      .credits {margin-bottom: -20px}
+      body {
+        margin: none;
+      }
+
+   }
