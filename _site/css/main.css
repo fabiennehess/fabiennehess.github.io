@@ -37,7 +37,7 @@ body { color: black; font-family: Helvetica,  Arial, sans-serif; margin: 0 auto;
 
 .h2 { color: blue; }
 
-p { font-size: 155%; max-width: 100%; }
+p { font-size: 130%; max-width: 100%; }
 
 .h2after { color: blue; }
 
@@ -65,15 +65,16 @@ u { border-bottom: 2px solid black; /* <— Set line thickness here*/ text-decor
   .section { padding-top: 5px; }
   .year { font-size: 70%; letter-spacing: 1.5px; font-weight: 700; padding-top: 15px; }
   p, .data { width: 100%; font-size: 100%; line-height: 130%; } }
-@media only screen and (min-width: 668px) and (max-width: 1199) { .h2 { margin-bottom: 10px; }
+@media only screen and (min-width: 601px) and (max-width: 1299px) { .h2 { margin-bottom: 10px; }
   .h2after { margin-top: -8px; }
   .entry { margin-top: -10px; }
-  p { line-height: 125%; }
   .data { margin-top: 4px; line-height: 130%; max-width: 83%; padding-bottom: 5px; }
   .everything, .everything2 { margin-left: 2.5rem; }
+  p, .data { font-size: 130%; line-height: 130%; }
+  .caption { font-size: 55%; margin-bottom: 11px; }
   .credits { margin-bottom: -20px; }
   body { margin: none; } }
-@media only screen and (min-width: 1200px) { .h2 { margin-bottom: 10px; }
+@media only screen and (min-width: 1300px) { .h2 { margin-bottom: 10px; }
   .h2after { margin-top: -8px; }
   .entry { margin-top: -10px; }
   .data { margin-top: 4px; line-height: 130%; max-width: 83%; padding-bottom: 5px; }
