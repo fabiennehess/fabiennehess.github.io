@@ -9,11 +9,6 @@
   filename: 23_fmt.jpg
   percentage: 100
 
-- caption: <i>Apollinaire, Baur, Madame X</i>. Retrieved via trash-recovery software from my computer. Digitally printed silk.
-  type: image
-  filename: 19_fmt.jpg
-  percentage: 34
-
 - caption: 
   type: image
   filename: 2_fmt.jpg
@@ -23,6 +18,11 @@
   type: image
   filename: FHESS_Sid_reformatted2_fmt.jpg
   percentage: 80
+
+- caption: <i>Apollinaire, Baur, Madame X</i>. Retrieved via trash-recovery software from my computer. Digitally printed silk.
+  type: image
+  filename: 19_fmt.jpg
+  percentage: 34
 
 - caption: <i>Collective Vomit</i>. Images found via trash-recovery software on USB sticks belonging to participants of a workshop.
   type: vimeo
@@ -174,22 +174,3 @@
   filename: FabienneHess_RecoveredVIII_2_fmt.jpg
   percentage: 100
 
-- caption: <i>Circle Signals</i>. From the BBC archive. Commissioned by the BBC for Broadcasting House. Digitally printed vinyl.
-  type: image
-  filename: Studio_Session-008_fmt.jpg
-  percentage: 50
-
-- caption: <i>Circle Signals</i>. From the BBC archive. Commissioned by the BBC for Broadcasting House. Digitally printed vinyl.
-  type: image
-  filename: Studio_Session-086_fmt.jpg
-  percentage: 80
-
-- caption: <i>Circle Signals</i>. From the BBC archive. Commissioned by the BBC for Broadcasting House. Digitally printed vinyl.
-  type: image
-  filename: Studio_Session-056_fmt.jpg
-  percentage: 40
-
-- caption: <i>Circle Signals</i>. From the BBC archive. Commissioned by the BBC for Broadcasting House. Digitally printed vinyl.
-  type: image
-  filename: Studio_Session-077_fmt.jpg
-  percentage: 50
