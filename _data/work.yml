@@ -80,16 +80,10 @@
   filename: IMG_8902_fmt.jpg
   percentage: 100
 
-
 - caption: 
   type: image
   filename: 1795264_1465517916995130_1582267020_o_fmt.jpg
   percentage: 60
-
-- caption:  <i>Untitled</i>. From the spam folder. Digitally printed vinyl.
-  type: image
-  filename: IMG_1329_fmt.jpg
-  percentage: 20
 
 - caption: <i>Zebras, Blanks and Blobs</i>. Image families from the University of Edinburgh’s collections. Artist book.
   type: image
