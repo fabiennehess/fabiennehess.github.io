@@ -1,4 +1,23 @@
 
+- caption:
+  type: image
+  filename: 008_FabienneHess.jpg
+  percentage: 80
+
+- caption:
+  type: image
+  filename: 007_FabienneHess.jpg
+  percentage: 50
+
+- caption:
+  type: image
+  filename: 006_FabienneHess.jpg
+  percentage: 40
+
+- caption:
+  type: image
+  filename: 005_FabienneHess.jpg
+  percentage: 60
 
 - caption:
   type: image
