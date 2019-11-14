@@ -36,11 +36,6 @@
 
 - caption:
   type: image
-  filename: 001_FabienneHess.jpg
-  percentage: 60
-
-- caption:
-  type: image
   filename: 01_FabienneHess.jpg
   percentage: 100
 
