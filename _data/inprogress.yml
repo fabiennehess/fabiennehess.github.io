@@ -4,11 +4,6 @@
   filename: 014_FabienneHess.jpg
   percentage: 40
 
-- caption: Collar and vestee, late 17th-Century, Met Museum
-  type: image
-  filename: 013_FabienneHess.jpg
-  percentage: 40
-
 - caption:
   type: image
   filename: 012_FabienneHess.jpg
@@ -19,19 +14,9 @@
   filename: 011_FabienneHess.jpg
   percentage: 40
 
-- caption: Page from a sample book, 1840, Met Museum
-  type: image
-  filename: 010_FabienneHess.jpg
-  percentage: 60
-
 - caption:
   type: image
   filename: 009_FabienneHess.jpg
-  percentage: 40
-
-- caption: Pillow cover, 16th-Century, Met Museum
-  type: image
-  filename: 008_FabienneHess.jpg
   percentage: 40
 
 - caption:
