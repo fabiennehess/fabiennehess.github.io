@@ -6,8 +6,8 @@
 
 - caption:
   type: image
-  filename: emptyshop_FabienneHEss.jpg
-  percentage: 30
+  filename: emptyshop_FabienneHess.jpg
+  percentage: 90
 
 - caption:
   type: image
@@ -41,8 +41,8 @@
 
 - caption: 
   type: image
-  filename: papyrus_Met.jpg
-  percentage: 60
+  filename: String_MET.jpg
+  percentage: 20
 
 - caption:
   type: image
@@ -52,7 +52,7 @@
 - caption:
   type: image
   filename: 009_FabienneHess.jpg
-  percentage: 70
+  percentage: 80
 
 - caption:
   type: image
