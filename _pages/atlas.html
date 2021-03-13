@@ -1,36 +1,49 @@
 ---
-layout : default
+layout: default
+permalink: /atlas/
 ---
 
-<div class = "everything">
 
-<div class = "headings">
-<a href="{{ site.baseurl }} /about/"> ABOUT</a> <span class = "underline">EXHIBITIONS</span> <a href="{{ site.baseurl }} /atlas/">ATLAS</a>
-</div>
+<div class = "everything" class = "collection">
 
-{% for item in site.data.work %}
+  <div class = "headings">
+  <a href="{{ site.baseurl }}/about/" >ABOUT</a> <a href="{{ site.baseurl }}/">EXHIBITIONS</a> <span class = "underline">ATLAS</span>
+  </div>
+
+
+{% for item in site.data.inprogress %}
 
 {% if item.type == "image" %}
 
 <div class = "item">
-
   <img src= "{{ site.baseurl }}/images/{{ item.filename}}" width="{{ item.percentage }}%" class="art">
 
 </div>
 
+
 <div class = "caption">
 {{ item.caption }}
 </div>
+
 
 {% endif %}
 
 {% if item.type == "vimeo" %}
+
 <div class = "item">
   {{ item.code }}
 </div>
+
+
 <div class = "caption">
 {{ item.caption }}
 </div>
+
+
 {% endif %}
 
 {% endfor %}
+
+
+
+</div>

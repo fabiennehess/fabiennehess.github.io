@@ -1,4 +1,23 @@
 
+- caption:
+  type: image
+  filename: bluewet_FabienneHess.jpg
+  percentage: 70
+
+- caption:
+  type: image
+  filename: emptyshop_FabienneHEss.jpg
+  percentage: 30
+
+- caption:
+  type: image
+  filename: NetWet_FabienneHess.jpg
+  percentage: 30
+
+- caption:
+  type: image
+  filename: deadleaves_FabienneHess.jpg
+  percentage: 50
 
 - caption:
   type: image
@@ -19,6 +38,11 @@
   type: image
   filename: 010_FabienneHess.jpg
   percentage: 30
+
+- caption: 
+  type: image
+  filename: papyrus_Met.jpg
+  percentage: 60
 
 - caption:
   type: image
@@ -47,6 +71,11 @@
 
 - caption:
   type: image
+  filename: recycling_FabienneHEss.jpg
+  percentage: 60
+
+- caption:
+  type: image
   filename: 005_FabienneHess.jpg
   percentage: 60
 
@@ -54,16 +83,6 @@
   type: image
   filename: 004_FabienneHess.jpg
   percentage: 50
-
-- caption:
-  type: image
-  filename: 003_FabienneHess.jpg
-  percentage: 80
-
-- caption:
-  type: image
-  filename: 002_FabienneHess.jpg
-  percentage: 90
 
 - caption:
   type: image
@@ -83,7 +102,12 @@
 - caption:
   type: image
   filename: 04_FabienneHess.jpg
-  percentage: 60
+  percentage: 40
+
+- caption:
+  type: image
+  filename: Tubes_Reflection_FabienneHEss.jpg
+  percentage: 50
 
 - caption:
   type: image
@@ -95,12 +119,15 @@
   filename: 06_FabienneHess.jpg
   percentage: 50
 
+- caption: 
+  type: image
+  filename: NetFragment_MET.jpg
+  percentage: 50
+
 - caption:
   type: image
   filename: 07_FabienneHess.jpg
   percentage: 80
-
-
 
 - caption:
   type: image
@@ -122,6 +149,11 @@
   filename: 18_FabienneHess.jpg
   percentage: 30
 
+- caption: 
+  type: image
+  filename: trash_AI_datasets_Kaggle.jpg
+  percentage: 20
+
 - caption:
   type: image
   filename: 19_FabienneHess.jpg
@@ -132,10 +164,25 @@
   filename: 20_FabienneHess.jpg
   percentage: 40
 
+- caption: 
+  type: image
+  filename: Handkerchief_MET.jpg
+  percentage: 30
+
+- caption: 
+  type: image
+  filename: Corrupteddetail_FabienneHEss.jpg
+  percentage: 50
+
 - caption:
   type: image
   filename: 21_FabienneHess.jpg
   percentage: 30
+
+- caption:
+  type: image
+  filename: treetextures_FabienneHess.jpg
+  percentage: 80
 
 - caption:
   type: image
@@ -146,6 +193,11 @@
   type: image
   filename: 23_FabienneHess.jpg
   percentage: 60
+
+- caption:
+  type: image
+  filename: wetplastic_FabienneHess.jpg
+  percentage: 70
 
 - caption:
   type: image
@@ -192,6 +244,16 @@
   filename: 32_FabienneHess.jpg
   percentage: 90
 
+- caption: 
+  type: image
+  filename: EarlyPhotograph_Met.jpg
+  percentage: 40
+
+- caption:
+  type: image
+  filename: Reflections_FabienneHess.jpg
+  percentage: 60
+
 - caption:
   type: image
   filename: 33_FabienneHess.jpg
@@ -206,11 +268,6 @@
   type: image
   filename: 36_FabienneHess.jpg
   percentage: 30
-
-- caption:
-  type: image
-  filename: 37_FabienneHess.jpg
-  percentage: 50
 
 - caption:
   type: image
@@ -281,3 +338,14 @@
   type: image
   filename: 52_FabienneHess.jpg
   percentage: 100
+
+- caption:
+  type: image
+  filename: Nests_Park_FabienneHEss.jpg
+  percentage: 80
+
+- caption: The pictures on this page are either either taken by me, from the Met Museum Open Access collection, or from Kaggle. See filenames for further info.
+  type: image
+  filename: Earlyphotograh_Tree_Met.jpg
+  percentage: 40
+

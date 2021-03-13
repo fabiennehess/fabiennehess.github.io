@@ -7,7 +7,7 @@ permalink: /about/
 
 
 <div class = "headings">
-<span class = "underline">ABOUT</span> <a href="{{ site.baseurl }}/"> WORK</a> <a href="{{ site.baseurl }}/inprogress/">IN-PROGRESS</a>
+<span class = "underline">ABOUT</span> <a href="{{ site.baseurl }}/"> EXHIBITIONS</a> <a href="{{ site.baseurl }}/atlas/">ATLAS</a>
 </div>
 
 
@@ -27,14 +27,18 @@ Lorem ipsum dolor set amet. Blar diene dlsdfjsld rrrrr ssss dfsdfsdf hfhfh sdfee
 <img src="images/LAYERS_for-GIF_Monet_2_lessframes_TINY.gif">
 </div> -->
 
-<div class = "h2">
-FABIENNE.HESS (AT) GMX.CH
+<div class = "infotext">
+<p>I am a London-based Swiss artist.<br>
+Under ‘Exhibions’ are mostly installation shots.<br>
+Atlas’ maps experiments, processes, references and work from my studio.</p>
 </div>
-<div class= "h2after">
-INSTAGRAM: FABIENNE_HESS
+
+<div class = "infotext2">
+  <p>
+fabienne.hess (at) gmx.ch <br>
+Instagram: <a href= "https://www.instagram.com/fabienne_hess/?hl=en" target="_blank"> fabienne_hess <a></p>
 </div>
-<p>
-</p>
+
 
 
 <div class = "giffy">
@@ -52,8 +56,8 @@ SOLO EXHIBITIONS
 {% for exhibit in site.data.solo %}
 <div class = "entry">
   <div class = "year">
-  <span class ="top">{{ exhibit.year }}</div>
-  </span>
+    <span class ="top">{{ exhibit.year }}
+  </span></div>
    <div class = "data">{{ exhibit.title }}</div>
 </div>
 {% endfor %}
@@ -195,15 +199,39 @@ RESIDENCIES
 
 
 {% endfor %}
-
-
-
-<div class = "giffy">
-<img src="/gifs/LAYERS_for-GIF_Malevich_1_TINY.gif">
 </div>
 
+
+
+<div class = "h2">
+PRIZES/GRANTS
 </div>
 
+
+<div class = section>
+{% for exhibit in site.data.prizes %}
+
+<div class = "entry">
+  <div class = "year">
+  <span class ="top">{{ exhibit.year }}</div>
+  </span>
+   <div class = "data">{{ exhibit.title }}</div>
+</div>
+
+
+
+{% endfor %}
+</div>
+
+
+
+<div class = "h2">
+TEACHING
+</div>
+<div class = "infotext3">
+ <p>I teach at at London College of Fashion and London College of Communication.</p>
+
+</div>
 
 
 <div class = "h2">
@@ -211,18 +239,36 @@ SCHOOLS
 </div>
 
 <div class = "section">
-<div class = "year"><span class ="top">2012</span></div><div class = "data"> Master of Arts, <u>Royal College of Art</u>, London</div>
-<div>
-<div class = "year">
-<span class ="top">2004</span>
-</div><div class = "data">
-Diploma in graphic design, <u>Berufsschule für Gestaltung</u>, Zürich</div>
+
+  <div class = "entry">
+    <div class = "year">
+    <span class ="top">2012</div>
+    </span>
+     <div class = "data">Master of Arts, <u>Royal College of Art</u>, London</div>
+  </div>
+
+<div class = "entry">
+  <div class = "year">
+  <span class ="top">2004</div>
+  </span>
+   <div class = "data">Diploma in graphic design, <u>Berufsschule für Gestaltung</u>, Zürich</div>
 </div>
 
 
+
 </div>
 
 
+
+<div class = "entry">
+<div class = "giffy">
+<img src="/gifs/LAYERS_for-GIF_Malevich_1_TINY.gif">
+</div>
+
+<div class = "infotext">
+<p> Image archives (Bastards): Spectrum IV, Twin (Robert Ryman), International Klein Blue, Olympia, Who’s Afraid of Red, Yellow and Blue III, Impression, Sunrise, Black Square. </p>
+
+<p>This website has been built with the help of <a href= "http://danielrothschild.com/" target="_blank"> Daniel Rothschild </a> using jekyll.</p>
 
 </div>
 
