@@ -1,4 +1,40 @@
 
+
+- caption:
+  type: image
+  filename: FHess_Nets.jpg
+  percentage: 50
+
+- caption:
+  type: image
+  filename: FHess_floordrawing.jpg
+  percentage: 40
+
+- caption:
+  type: image
+  filename: FHess_Condesationpaths.jpg
+  percentage: 30
+
+- caption:
+  type: image
+  filename: FHess_Chance-and-Measure.jpg
+  percentage: 80
+
+- caption:
+  type: image
+  filename: FHess_MyStudio.jpg
+  percentage: 50
+
+- caption:
+  type: image
+  filename: FHess_Skeins_GlodsmithsTextileCollection.jpg
+  percentage: 30
+
+- caption:
+  type: image
+  filename: FHess_Plasticintree.jpg
+  percentage: 40
+
 - caption:
   type: image
   filename: bluewet_FabienneHess.jpg
