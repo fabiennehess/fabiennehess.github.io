@@ -1,5 +1,50 @@
 
-- caption: <i>Gap Particles</i>. Images of fragments, printed on silk and unravelled. Photos by Nathan Caldecott, 2020.
+- caption: <i>Habitat Series</i>. Images of fragments, printed on silk and unravelled. Shown at muf/architecture art. Photos by Peter Otto and Fabienne Hess, 2021 
+  type: image
+  filename: -16_FabienneHess.jpg
+  percentage: 80
+
+
+- caption: 
+  type: image
+  filename: -15_FabienneHess.jpg
+  percentage: 30
+
+
+- caption: 
+  type: image
+  filename: -17_FabienneHess.jpg
+  percentage: 50
+
+
+- caption: 
+  type: image
+  filename: -14_FabienneHess.jpg
+  percentage: 90
+
+- caption: 
+  type: image
+  filename: -13_FabienneHess.jpg
+  percentage: 80
+
+
+- caption: <i>Habitat Series</i> at a construction site. Photos by Fabienne Hess, 2021
+  type: image
+  filename: -12_FabienneHess.jpg
+  percentage: 60
+
+- caption: 
+  type: image
+  filename: -11_FabienneHess.jpg
+  percentage: 30
+
+
+- caption: <i>Habitat Series</i> at the Goldsmiths Textile Collection. Photo by Fabienne Hess, 2021
+  type: image
+  filename: -10_FabienneHess.jpg
+  percentage: 40
+
+- caption: <i>Gap Particles</i>. Images of fragments, printed on silk and unravelled. Shown at MK Gallery. Photos by Nathan Caldecott, 2020.
   type: image
   filename: -07_FabienneHess.jpg
   percentage: 80
@@ -14,7 +59,7 @@
   filename: -05_FabienneHess.jpg
   percentage: 70
 
-- caption: Detail from the <i>Unravelled Series</i>. Billboard installation. Photo by Julien Bader.
+- caption: Detail from the <i>Unravelled Series</i>. Billboard installation during Art Night London. Photo by Julien Bader, 2019.
   type: image
   filename: -02_FabienneHess.jpg
   percentage: 100
@@ -44,17 +89,17 @@
   filename: FHESS_Sid_reformatted2_fmt.jpg
   percentage: 80
 
-- caption: <i>Collective Vomit</i>. Images found via trash-recovery software on USB sticks belonging to participants of a workshop held at Baltic Centre for Contemporary Art, 2014.
+- caption: <i>Collective Vomit</i>. Images found via trash-recovery software on USB sticks belonging to participants of a workshop held at Baltic Centre for Contemporary Art. Shown at Baltic in 2014 and at Dakar Biennal, 2015.
   type: vimeo
   code: <img src="/images/Collective-Vomit_3.gif" style="width:60%; min-width:450px">
   percentage: 100
 
-- caption: <i>Terms and Conditions</i>. One fifth of Airbnb’s T&C we agree to when using their service. Marker on dust-sheet. Photo by Gert Jan van Rooij, 2015.
+- caption: <i>Terms and Conditions</i>. One fifth of Airbnb’s T&C we agree to when using their service. Marker on dust-sheet. Installed here at Upstream Gallery. Photo by Gert Jan van Rooij, 2015.
   type: image
   filename: FH-2015-Terms_and_Conditions_1_4-HIRES_fmt.jpg
   percentage: 100
 
-- caption: <i>I Need, Trust Me, Help Me</i>. Appeals found in spam messages. Acrylic/marker on cling film/dust-sheet. Photos by Fabienne Hess, 2015.
+- caption: <i>I Need, Trust Me, Help Me</i>. Appeals found in spam messages. Acrylic/marker on cling film/dust-sheet. Shown at La Balsa Arte, Bogotá. Photos by Fabienne Hess, 2015.
   type: image
   filename: IMG_2242_fmt.jpg
   percentage: 30
@@ -83,7 +128,7 @@
   filename: IMG_2177_fmt.jpg
   percentage: 50
 
-- caption:  <i>Veintre de Tiburón</i>. Image found on used USB sticks bought in the informal markets of Cali. Digitally printed silk. Photo by Jamie Jenkinson. 2014.
+- caption:  <i>Veintre de Tiburón</i>. Image found on used USB sticks bought in the informal markets of Cali. Digitally printed silk. Shown at Lugar A Dudas, Cali. Photo by Jamie Jenkinson. 2014.
   type: image
   filename: IMG_7610_fmt.jpg
   percentage: 70
