@@ -1,5 +1,5 @@
 
-- caption: <i>Habitat Series</i>. Images of fragments, printed on silk and unravelled. Shown at muf/architecture art. Photos by Peter Otto and Fabienne Hess, 2021 
+- caption: <i>Habitat Series</i>. Images of fragments, printed on silk and unravelled. Installed at muf/architecture art. Photos by Peter Otto and Fabienne Hess, 2021 
   type: image
   filename: -14_FabienneHess.jpg
   percentage: 90
@@ -27,7 +27,7 @@
   percentage: 80
 
 
-- caption: <i>Habitat Series</i> at a construction site. Photos by Fabienne Hess, 2021
+- caption: <i>Habitat Series</i> installed at a construction site. Photos by Fabienne Hess, 2021
   type: image
   filename: -12_FabienneHess.jpg
   percentage: 60
@@ -37,13 +37,12 @@
   filename: -11_FabienneHess.jpg
   percentage: 30
 
-
-- caption: <i>Habitat Series</i> at the Goldsmiths Textile Collection. Photo by Fabienne Hess, 2021
+- caption:
   type: image
-  filename: -10_FabienneHess.jpg
-  percentage: 40
+  filename: Nests_Park_FabienneHEss.jpg
+  percentage: 80
 
-- caption: <i>Gap Particles</i>. Images of fragments, printed on silk and unravelled. Shown at MK Gallery. Photos by Nathan Caldecott, 2020.
+- caption: <i>Gap Particles</i>. Images of fragments, printed on silk and unravelled. Installed at MK Gallery. Photos by Nathan Caldecott, 2020.
   type: image
   filename: -07_FabienneHess.jpg
   percentage: 80
@@ -68,7 +67,17 @@
   filename: -01_FabienneHess.jpg
   percentage: 50
 
-- caption: <i>Corrupted Series</i>. Images retrieved via trash-recovery software from my computer. Digitally printed silk. Photos by Fabienne Hess and Like A Little Disaster. 2013.
+- caption: Detail from the <i>Unravelled Series</i>. Unravelled work from the <i>Corrupted</i> Series. Photo by Fabienne Hess. 2018
+  type: image
+  filename: 01_FabienneHess.jpg
+  percentage: 80
+
+- caption: <i>Further Undone</i> Series. Unravelled work from the <i>Corrupted</i> Series. Shown at La Balsa Arte. Photo by Fabienne Hess. 2017
+  type: image
+  filename: 44_FabienneHess.jpg
+  percentage: 40
+
+- caption: <i>Corrupted</i> Series. Images retrieved via trash-recovery software from my computer. Digitally printed silk. Photos by Fabienne Hess and Like A Little Disaster. 2013.
   type: image
   filename: FHESS_Dietrich_instagram_fmt.jpg
   percentage: 34

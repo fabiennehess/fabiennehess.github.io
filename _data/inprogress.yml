@@ -62,27 +62,6 @@
 
 - caption:
   type: image
-  filename: -09_FabienneHess.jpg
-  percentage: 50
-
-- caption:
-  type: image
-  filename: -08_FabienneHess.jpg
-  percentage: 80
-
-
-- caption: 
-  type: image
-  filename: FabienneHess_GapParticles_1.jpg
-  percentage: 90
-
-- caption: 
-  type: image
-  filename: FabienneHess_GapParticles_2.jpg
-  percentage: 70
-
-- caption:
-  type: image
   filename: 010_FabienneHess.jpg
   percentage: 30
 
