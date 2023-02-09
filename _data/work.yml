@@ -1,5 +1,22 @@
 
-- caption: <i>Habitat Series</i>. Images of fragments, printed on silk and unravelled. Installed at muf/architecture art. Photos by Peter Otto, 2021 
+- caption: <i>The Algorithmic Pedestal</i>. Images about loss from the Met collection. Exhibition made in collaboration with researcher Laura Herman. Digital silk print. More info <a href=https://www.algorithmicpedestal.info/ target="_blank"><i>here</i></a>. 2023
+  type: image
+  filename: -18_FabienneHess.jpg
+  percentage: 90
+
+- caption: <i>The Algorithmic Pedestal</i>. Exhibition design in collaboration with Parasite 2.0.
+  type: image
+  filename: -19_FabienneHess.jpg
+  percentage: 40
+
+
+- caption: 
+  type: image
+  filename: -20_FabienneHess.jpg
+  percentage: 70
+
+
+- caption: <i>Habitat Series</i>. Images of fragments, printed on silk and unravelled. Installed at muf/architecture art. Exbibition text by Amalia Pica <a href=https://drive.google.com/file/d/1WPOWgL_0VEm3OOSiVJndHrp1FXfbTkwx/view?usp=sharing target="_blank"><i>here</i></a>. Photos by Peter Otto, 2021
   type: image
   filename: -14_FabienneHess.jpg
   percentage: 90
@@ -43,7 +60,7 @@
   filename: Nests_Park_FabienneHEss.jpg
   percentage: 90
 
-- caption: <i>Habitat Series</i>, installed at Candida Powell-Williams's studio. Photos by Fabienne Hess, 2021
+- caption: <i>Habitat Series</i>, installed at Candida Powell-Williams's studio. Photo by Fabienne Hess, 2021
   type: image
   filename: Habitat_FabienneHess_Candida.jpg
   percentage: 90
