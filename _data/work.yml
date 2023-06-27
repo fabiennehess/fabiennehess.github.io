@@ -1,4 +1,30 @@
 
+- caption: <i>Soflty Swaying</i>. Project at the Swiss Church in London, exploring the themes of community and gift exchange. Digital silk print. More info <a href=https://drive.google.com/file/d/1VKLGyoHiElf0xUldoQDy37kr8eRzFUNd/view?usp=sharing target="_blank"><i>here</i></a>. Photos by Peter Otto, 2023
+  type: image
+  filename: SofltySwaying_FabienneHess1.jpg
+  percentage: 50
+
+
+- caption: 
+  type: image
+  filename: SofltySwaying_FabienneHess2.jpg
+  percentage: 40
+
+- caption: 
+  type: image
+  filename: SofltySwaying_FabienneHess3.jpg
+  percentage: 50
+
+- caption: 
+  type: image
+  filename: SofltySwaying_FabienneHess4.jpg
+  percentage: 40
+
+- caption: 
+  type: image
+  filename: SofltySwaying_FabienneHess5.jpg
+  percentage: 50
+
 - caption: <i>The Algorithmic Pedestal</i>. Images about loss from the Met collection. Exhibition made in collaboration with researcher Laura Herman. Digital silk print. More info <a href=https://www.algorithmicpedestal.info/ target="_blank"><i>here</i></a>. 2023
   type: image
   filename: -18_FabienneHess.jpg
@@ -49,12 +75,6 @@
   filename: -11_FabienneHess.jpg
   percentage: 30
 
-
-- caption: 
-  type: image
-  filename: Habitat_FabienneHess_Construc_Alien.jpg
-  percentage: 30
-
 - caption:
   type: image
   filename: Nests_Park_FabienneHEss.jpg
@@ -64,16 +84,6 @@
   type: image
   filename: Habitat_FabienneHess_Candida.jpg
   percentage: 90
-
-- caption: <i>Gap Particles</i>. Images of fragments, printed on silk and unravelled. Installed at MK Gallery. Photos by Nathan Caldecott, 2020.
-  type: image
-  filename: -07_FabienneHess.jpg
-  percentage: 80
-
-- caption: 
-  type: image
-  filename: -05_FabienneHess.jpg
-  percentage: 70
 
 - caption: Detail from the <i>Unravelled Series</i>. Billboard installation during Art Night London. Photo by Julien Bader, 2019.
   type: image
