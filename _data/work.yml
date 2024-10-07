@@ -1,5 +1,6 @@
 
 
+
 - caption: <i>A Weave Has a Collaborative Structure</i>, Gallery North, Newcastle Upon Tyne, 2024. More info <a href=https://drive.google.com/file/d/16PAoLueajHqn--KHRXD0Xgez3sYyDonC/view?usp=drive_link target="_blank"><i>here.</i></a>
   type: image
   filename: A-Wave-Has_FHess_6.jpg
@@ -25,6 +26,13 @@
   filename: A-Wave-Has_FHess_3.jpg
   percentage: 40
 
+- caption: <i>Gap Particles</i>, La Società delle Api, Grasse. More info <a href=https://lasocietadelleapi.mc/en/programmes/fixed-constant-blazing-summer-solstice-presentation/ target="_blank"><i>here</i></a>. Photos by Pierre Morel, 2024
+  type: image
+  filename: Grasse_FabienneHess.jpg
+  percentage: 60
+
+<iframe width="560" height="315" src="https://vimeo.com/1014776156" frameborder="0" allowfullscreen></iframe>
+
 
 - caption: <i>Gap Particles</i>, French Riviera, London. 2023
   type: image
@@ -38,7 +46,7 @@
   percentage: 30
 
 
-- caption: <i>Soflty Swaying</i>. Project at the Swiss Church in London, exploring the themes of community and gift exchange. Digital silk print. More info <a href=https://drive.google.com/file/d/1VKLGyoHiElf0xUldoQDy37kr8eRzFUNd/view?usp=sharing target="_blank"><i>here</i></a>. Photos by Peter Otto, 2023
+- caption: <i>Soflty Swaying</i>. Project at the Swiss Church in London, exploring the themes of community and gift exchange. More info <a href=https://drive.google.com/file/d/1VKLGyoHiElf0xUldoQDy37kr8eRzFUNd/view?usp=sharing target="_blank"><i>here</i></a>. Photos by Peter Otto, 2023
   type: image
   filename: SofltySwaying_FabienneHess1.jpg
   percentage: 50
@@ -63,7 +71,7 @@
   filename: SofltySwaying_FabienneHess5.jpg
   percentage: 50
 
-- caption: <i>The Algorithmic Pedestal</i>. Images about loss from the Met collection. Exhibition made in collaboration with Oxford Internet Institute and researcher Laura Herman. Digital silk print. More info <a href=https://www.algorithmicpedestal.info/ target="_blank"><i>here</i></a>. 2023
+- caption: <i>The Algorithmic Pedestal</i>. Images about loss from the Met collection. Exhibition made in collaboration with Oxford Internet Institute. More info <a href=https://www.oii.ox.ac.uk/research/projects/the-algorithmic-pedestal/ target="_blank"><i>here</i></a>. 2023
   type: image
   filename: -18_FabienneHess.jpg
   percentage: 90
@@ -163,7 +171,7 @@
   filename: FHESS_Sid_reformatted2_fmt.jpg
   percentage: 80
 
-- caption: <i>Collective Vomit</i>. Images found via trash-recovery software on USB sticks belonging to participants of a workshop held at Baltic Centre for Contemporary Art. Shown at Baltic in 2014 and at Dakar Biennal, 2015.
+- caption: <i>Collective Vomit</i>. Images found via trash-recovery software on USB sticks belonging to participants of a workshop held at Baltic Centre for Contemporary Art. Catalogue entry by Paul Myerscough for Museum Tinguely <a href=https://drive.google.com/file/d/1Z9Mahw2Dre2xkOzK0WkAzauI9MgpP-Jl/view?usp=drive_link target="_blank"><i>here</i></a>.
   type: vimeo
   code: <img src="/images/Collective-Vomit_3.gif" style="width:60%; min-width:450px">
   percentage: 100
