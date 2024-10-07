@@ -26,10 +26,16 @@
   filename: A-Wave-Has_FHess_3.jpg
   percentage: 40
 
-- caption: <i>Gap Particles</i>, La Società delle Api, Grasse. More info <a href=https://lasocietadelleapi.mc/en/programmes/fixed-constant-blazing-summer-solstice-presentation/ target="_blank"><i>here</i></a>. Photos by Pierre Morel, 2024
+- caption: <i>Gap Particles</i>, La Società delle Api, Grasse. More info <a href=https://lasocietadelleapi.mc/en/programmes/fixed-constant-blazing-summer-solstice-presentation/ target="_blank"><i>here</i></a>. Photo and video by Pierre Morel, 2024
   type: image
   filename: Grasse_FabienneHess.jpg
   percentage: 60
+
+- caption: 
+  type: vimeo
+  code: <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1014776156?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Gap Particles"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+  percentage: 80
+
 
 - caption: <i>Gap Particles</i>, French Riviera, London. 2023
   type: image
@@ -143,7 +149,7 @@
   filename: 01_FabienneHess.jpg
   percentage: 80
 
-- caption: <i>Further Undone</i> Series. Unravelled work from the <i>Corrupted</i> Series. Shown at La Balsa Arte. Photo by Fabienne Hess. 2017
+- caption: <i>Further Undone</i> Series. Unravelled work from the <i>Corrupted</i> Series. Photo by Fabienne Hess. 2017
   type: image
   filename: 44_FabienneHess.jpg
   percentage: 40
@@ -172,45 +178,6 @@
   type: vimeo
   code: <img src="/images/Collective-Vomit_3.gif" style="width:60%; min-width:450px">
   percentage: 100
-
-- caption: <i>Terms and Conditions</i>. One fifth of Airbnb’s T&C we agree to when using their service. Marker on dust-sheet. Installed here at Upstream Gallery. Photo by Gert Jan van Rooij, 2015.
-  type: image
-  filename: FH-2015-Terms_and_Conditions_1_4-HIRES_fmt.jpg
-  percentage: 100
-
-- caption: <i>I Need, Trust Me, Help Me</i>. Appeals found in spam messages. Acrylic/marker on cling film/dust-sheet. Shown at La Balsa Arte, Bogotá. Photos by Fabienne Hess, 2015.
-  type: image
-  filename: IMG_2242_fmt.jpg
-  percentage: 30
-
-- caption: 
-  type: image
-  filename: IMG_2206_fmt.jpg
-  percentage: 80
-
-  type: image
-  filename: IMG_2243_fmt.jpg
-  percentage: 60
-
-- caption: 
-  type: image
-  filename: IMG_2109_fmt.jpg
-  percentage: 80
-
-- caption: 
-  type: image
-  filename: FabienneHess_INeed_detail.jpg
-  percentage: 40
-
-- caption: 
-  type: image
-  filename: IMG_2177_fmt.jpg
-  percentage: 50
-
-- caption:  <i>Veintre de Tiburón</i>. Image found on used USB sticks bought in the informal markets of Cali. Digitally printed silk. Shown at Lugar A Dudas, Cali. Photo by Jamie Jenkinson. 2014.
-  type: image
-  filename: IMG_7610_fmt.jpg
-  percentage: 70
 
 - caption: <i>Zebras, Blanks and Blobs</i>. Image families from the University of Edinburgh’s collections. Artist book. Photos by Tenderbooks, 2017.
   type: image
@@ -267,7 +234,6 @@
   filename: 0143013d_fmt.jpg
   percentage: 50
 
-
 - caption: <i>Hits and Misses (from the archive)</i>. One of the University of Edinburgh’s collection entries which at the time of <i>Hits and Misses</i>  had never been clicked-on. Installed at Talbot Rice Gallery, photos by Chris Park, 2015.
   type: image
   filename: FabienneHess_Hits-and-Misses_4_fmt.jpg
@@ -287,6 +253,45 @@
   type: image
   filename: Talbot_Rice_Fabienne_Hess_2ndAug2015-18_fmt.jpg
   percentage: 40
+
+- caption: <i>Terms and Conditions</i>. One fifth of Airbnb’s T&C we agree to when using their service. Marker on dust-sheet. Photo by Gert Jan van Rooij, 2015.
+  type: image
+  filename: FH-2015-Terms_and_Conditions_1_4-HIRES_fmt.jpg
+  percentage: 100
+
+- caption: <i>I Need, Trust Me, Help Me</i>. Appeals found in spam messages. Acrylic/marker on cling film/dust-sheet. Shown at La Balsa Arte, Bogotá. Photos by Fabienne Hess, 2015.
+  type: image
+  filename: IMG_2242_fmt.jpg
+  percentage: 30
+
+- caption: 
+  type: image
+  filename: IMG_2206_fmt.jpg
+  percentage: 80
+
+  type: image
+  filename: IMG_2243_fmt.jpg
+  percentage: 60
+
+- caption: 
+  type: image
+  filename: IMG_2109_fmt.jpg
+  percentage: 80
+
+- caption: 
+  type: image
+  filename: FabienneHess_INeed_detail.jpg
+  percentage: 40
+
+- caption: 
+  type: image
+  filename: IMG_2177_fmt.jpg
+  percentage: 50
+
+- caption:  <i>Veintre de Tiburón</i>. Image found on used USB sticks bought in the informal markets of Cali. Digitally printed silk. Shown at Lugar A Dudas, Cali. Photo by Jamie Jenkinson. 2014.
+  type: image
+  filename: IMG_7610_fmt.jpg
+  percentage: 70
 
 - caption: <i>Recovered VII</i>. Images retrieved via trash-recovery software from my computer. Digitally printed silk. Photo by Fabienne Hess, 2012.
   type: image
